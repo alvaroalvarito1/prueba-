@@ -12,6 +12,6 @@ hola, esto es mi primer archivo **markdown**
  -  
  ## Para poner imagenes y enlaces:  
  Usar la exclamacion, corchetes y parentesis:
- ![texto]8(http://google.es)
+ ![texto](http://google.es)
  
  Las instrucciones completas se pueden buscar en internet 
